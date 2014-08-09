@@ -25,7 +25,7 @@ Z3 is available at http://z3.codeplex.com/.
 
 ### Usage
 
-For examples of usage, see `Z3SolverTest.java` ([code](https://github.com/pascalpoizat/schora/blob/master/test/Z3SolverTest.java))
+For examples of usage, see `Z3SolverTest.java` ([code](https://github.com/pascalpoizat/smt-lib/blob/master/test/Z3SolverTest.java))
 
 ## License
 
