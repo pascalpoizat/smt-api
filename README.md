@@ -9,11 +9,7 @@ For the time being, it is focused on interacting with [Z3](http://z3.codeplex.co
 
 This work has been done while A. Feliachi was a PhD student at LRI.
 
-<https://plus.google.com/1123092583`96642297676/posts>
-<!-- 
-- <http://twitter.com/huunghia>
-- <http://github.com/nhnghia>
--->
+[A. Feliachi at LinkedIn](https://www.linkedin.com/in/abderrahmane-feliachi-ph-d-b2249313)
 
 ## Dependencies
 
