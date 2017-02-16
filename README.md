@@ -9,7 +9,7 @@ For the time being, it is focused on interacting with [Z3](http://z3.codeplex.co
 
 This work has been done while A. Feliachi was a PhD student at LRI.
 
-[A. Feliachi at LinkedIn](https://www.linkedin.com/in/abderrahmane-feliachi-ph-d-b2249313)
+- [A. Feliachi at LinkedIn](https://www.linkedin.com/in/abderrahmane-feliachi-ph-d-b2249313)
 
 ## Dependencies
 
@@ -17,7 +17,7 @@ There are no dependencies, but you will need Z3 to perform some action.
 
 ### Z3
 
-Z3 is available at http://z3.codeplex.com/.
+Z3 is available at https://github.com/Z3Prover/z3.
 
 ### Usage
 
